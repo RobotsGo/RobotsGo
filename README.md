@@ -1,9 +1,9 @@
 ### Welcome to RobotsGo git hub
 We a small robot club based in Bunbury Western Australia.      
-All of the open source developemt's will be posted and available to everyone.    
-Check us out at are home https://robotsgo.net/    
+All open source developemt's will be uploaded and available to everyone.    
+Check us out at are home page https://robotsgo.net/    
 
-We are always looking for new members, if interested please get in touch via are website above.
+We are always looking for new members, if interested please get in touch via the website above.
 
 ## Repo Contents   
 * [AlphaBot2](#AlphaBot2)
