@@ -7,6 +7,7 @@ We are always looking for new members, if interested please get in touch via the
 
 ## Repo Contents   
 * [AlphaBot2](#AlphaBot2)
+* [THE_CLAW](#THE_CLAW)
 * [RGOS-RobotsGo-OS](#RGOS-RobotsGo-OS) 
 * [NVIDIA-Jetson-Nano](#NVIDIA-Jetson-Nano) 
 * [Gamepad](#Gamepad) 
@@ -15,6 +16,10 @@ We are always looking for new members, if interested please get in touch via the
 <a name="AlphaBot2"></a>
 **AlphaBot2**   
 Repo containing all of the orginal Waveshare Alphabot2 demo applications and RobotsGo developments for the AlphaBot2 platform
+
+<a name="THE_CLAW"><a/>
+**THE_CLAW**   
+An ESP32 Web Wifi-AP controller for the EEZYbotARM MK2 by Carlo Franciscone fitted with the Mantis Gripper claw by Sergei Golikov.
 
 <a name="RGOS-RobotsGo-OS"></a>
 **RGOS-RobotsGo-OS**   
